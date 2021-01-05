@@ -64,5 +64,58 @@
 		- Subsequent Price Decline
 		- Throughout the World
 	- Reduced Demand for Basic Minerals = Reduced Sales for Mining Equipment
-- Steps Undertaken
-	-  
+- Loan Agreements
+	- Min Working Capital = $175 million
+	- Consolidated Net Worth = $180 million
+	- CR >= 1.75
+- Oct 31, 1982
+	- Working Capital = $29.3 million
+	- Consolidated Net Worth = $142.2 million
+	- CR = 1.12
+- After Effects
+	- Long Term Debt of $124.3 million became due on demand
+	- Credit Line of $25 million became unavailable
+	- Short Term Credit of $12 million canceled
+	- $25.1 million debt of Harnischfeger Credit Corp became immediately due
+	- Co stopped paying dividends
+	- Debt Restructuring Required
+
+## Company Recovery Plan
+- 4 Elements
+	- Changes in the Top Management
+	- Cost Reductions to lower the BEP
+	- Reorientation of the Cos Business
+	- Debt Restructuring and Recapitalization
+- First Steps
+	- Chief Operating Officer = William Goessel
+	- Sr VP Finance & Administration and CFO= Jeffrey Grade
+	- Eng, Manu, Mkting Funcs also Restructured
+	- Reduced Workforce from 6900 to 3800
+	- Elimination of Management Bonuses
+	- Reduced Benefits
+	- Freezing Salaries of Salaried and Hourly Emps
+	- Liquidating Excess Inventory
+	- Stretching Payment to Creditors
+	- Permanent Closure of Constr Equip plant at Escanaba, Michigan
+- Second Steps
+	- Long Term Agreement with Kobe Steel(Japan)
+		- Agreed to Supply construction cranes in the US
+		- Harnischfeger Phased out manufacturing of cranes to reduce cost
+	- Industrial Tech Group
+		- Focus on High Tech Part of the Business
+		- Targeting for Future Growth the Mat Handling Eq and Systems Business
+		- Acquire new Products, Tech and Eq
+		- Provide Computer Integrated Sols to Handling, Storing, and Retrieval Areas
+		- Industries such as distribution warehousing, food, pharmas, and aerospace
+	- Complex and Difficult Negotiations with Bankers
+		- Restructure Debt Obligation
+			- 3 year term loans secured by fixed and other assets + 1 year extension
+			- Specified Metrics mentioned above to be maintained
+- Outcomes
+	- Losses down from $77 Million to $35 Million in 1983
+
+## 1984
+- Profits in each of the 4 qtrs
+- Year ended with a pre-tax profit of $5.7 Mill
+- New Public Offering Debentures and Common Stock
+	- Proceeds of $150 Million used to pay restructured debt
